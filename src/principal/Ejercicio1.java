@@ -5,7 +5,7 @@ public class Ejercicio1 {
 	public static void main(String[] args) {
 		//Declaración de la variable que va a tener la nota
 		int nota = 5;
-		
+		int nota2;
 		//Vamos a participar en el if
 		if (nota>8) {
 			System.out.println("Sobresaliente");
@@ -22,5 +22,5 @@ public class Ejercicio1 {
 		}
 
 	}
-
+	
 }
