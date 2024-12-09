@@ -20,7 +20,6 @@ public class Ejercicio1 {
 		}else if (nota<2) {
 			System.out.println("Muy deficiente");
 		}
-
+		System.out.println("sadkgfsailglas");
 	}
-	
 }
